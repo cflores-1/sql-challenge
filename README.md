@@ -1,5 +1,6 @@
 # sql-challenge
 Data Modeling:
+
 Inspect the CSVs and sketch out an ERD of the tables.
 
 Data Engineering:
@@ -10,6 +11,7 @@ Import each CSV file into the corresponding SQL table. Note be sure to import th
 
 
 Data Analysis:
+
 Once you have a complete database, do the following:
 
 List the following details of each employee: employee number, last name, first name, sex, and salary.
